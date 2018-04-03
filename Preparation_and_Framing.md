@@ -5,10 +5,11 @@ The Kinect uses an infrared tracking system that tracks most of the movements of
 
 Risk identification and mitigation
 
-|Identification|Mitigation|
-|Getting the Kinect to work with OpenCV|Utilizing the openNI package|
-|Tracking the motion through the Kinect and projecting it on the computer|Using the Kinect’s infrared camera to detect movements and create a skeletal tracking|
-|Aligning a two dimensional with the motion|Creating a class that will assign an image on a joint on the skeletal tracking.|
+| Identification                                                           | Mitigation                                                                            |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Getting the Kinect to work with OpenCV                                   | Utilizing the openNI package                                                          |
+| Tracking the motion through the Kinect and projecting it on the computer | Using the Kinect’s infrared camera to detect movements and create a skeletal tracking |
+| Aligning a two dimensional with the motion                               | Creating a class that will assign an image on a joint on the skeletal tracking        |
 
 
 
