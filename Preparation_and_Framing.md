@@ -5,11 +5,11 @@ The Kinect uses an infrared tracking system that tracks most of the movements of
 
 Risk identification and mitigation
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|Risk identification and mitigation|   |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
 
 Identification
 Mitigation
