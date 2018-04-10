@@ -4,6 +4,8 @@ Many people suggested that we work with Kinect first and then see if we needed t
 
 
 
+
+
 **Review Process Reflection** 
 
 The review went pretty well; we got many different opinions on whether to use OpenCV or Kinect or a combination of both, which we were able to parse through and come to a final decision. We decided to initially start with Kinect because we felt like the depth analysis was better to start with. We also felt more confident in this because someone had referred us to Jeff Pflueger, who was doing a Kinect project in the RoboLab, so we knew we had a reliable resource to ask questions. We believe we gave just the right amount of context because people gave us very concrete answers to our questions and could justify their comments. We stuck mainly to our agenda; however, we could have put more diagrams in our slides so the audience could easily visualize what we were trying to convey for a more effective technical review. 
