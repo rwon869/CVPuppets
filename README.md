@@ -6,8 +6,6 @@
 
 ### CVPuppets takes visual, skeletal input from a Microsoft Kinect and mimincs that input in a drawing or model. Essentially it creates a visual puppet that a human body controls.
 
+ The user should first make sure they have access to a Microsoft Kinect for testing.
  
-
-We should probably do this at some point.
-
-Probably.
+ The user should 
