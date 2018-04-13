@@ -8,4 +8,4 @@
 
  The user should first make sure they have access to a Microsoft Kinect for testing.
  
- The user should 
+ The user should then install all the necessary packages, found in `<requirements.txt>`
