@@ -4,9 +4,9 @@
 
 #### *Software Design 2018 Final Project*
 
-### CVPuppets takes visual, skeletal input from a Microsoft Kinect and mimincs that input in a drawing or model. Essentially it creates a visual puppet that a human body controls.
+## CVPuppets takes visual, skeletal input from a Microsoft Kinect and mimincs that input in a drawing or model. Essentially it creates a visual puppet that a human body controls.
 
-#### Getting Started
+### Getting Started
 
  The user should first make sure they have access to a Microsoft Kinect for testing.
  
@@ -18,6 +18,6 @@
  
  For more information on which packages are to be installed (and why), please refer to `requirements.txt`.
  
- #### Usage
+ ### Usage
  
  
