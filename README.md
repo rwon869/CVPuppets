@@ -8,4 +8,6 @@
 
  The user should first make sure they have access to a Microsoft Kinect for testing.
  
- The user should then install all the necessary packages, found in `requirements.txt`
+ The user should then install all the necessary packages, found in `requirements.txt` by running the line
+ `sudo pip install -r requirements.txt`
+ in the command line
